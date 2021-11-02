@@ -58,7 +58,7 @@
 [![image.png](https://img30.360buyimg.com/pop/jfs/t1/165954/27/24804/170394/617150b4E3c458ee5/0917f7afbe504562.png)](https://img30.360buyimg.com/pop/jfs/t1/165954/27/24804/170394/617150b4E3c458ee5/0917f7afbe504562.png)
 ### 三、新增秘密变量 ###
 ### 点击secret选项，新建三个秘密变量 如下图所示，分别为MTTOKEN、PUSHPLUSTOKEN、SERVERKEY,变量新建后填写对应的值，分别为美团网页版获得的token,pushPlus官方用于微信推送提醒的token，server酱用于微信推送的token,这三个必填且不能为空！！ ###
-
+ 
 [![image.png](https://img30.360buyimg.com/pop/jfs/t1/207445/26/6171/461209/617154feEa801bcee/9d9fa5fbc72d6812.png)](https://img30.360buyimg.com/pop/jfs/t1/207445/26/6171/461209/617154feEa801bcee/9d9fa5fbc72d6812.png)
 # #
 ### 四、action.yml配置文件 选择性自定义修改（非必需)
